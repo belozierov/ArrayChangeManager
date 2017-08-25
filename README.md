@@ -1,5 +1,5 @@
-# CoreDataJsonParser
-JSON to Core Data parser
+# ArrayChangeManager
+Handle changes in array
 
 # Example
 
