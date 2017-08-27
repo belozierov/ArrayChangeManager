@@ -1,9 +1,9 @@
 //
 //  ArrayChangeManager.swift
-//  
+//  ExampleArrayChangeManager
 //
-//  Created by Beloizerov on 25.08.17.
-//
+//  Created by Beloizerov on 27.08.17.
+//  Copyright © 2017 Home. All rights reserved.
 //
 
 import Foundation
@@ -202,4 +202,3 @@ class ArrayChangeManager<T: Comparable>: Collection {
     }
     
 }
-
